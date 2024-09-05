@@ -1,0 +1,58 @@
+{
+  "filename": "sensor_2.png",
+  "size": {
+    "width": 930,
+    "height": 616,
+    "depth": 3
+  },
+  "objects": [
+    {
+      "name": "Condensation (CO2)",
+      "pose": "Unspecified",
+      "truncated": 0,
+      "difficult": 0,
+      "bndbox": {
+        "xmin": 0,
+        "ymin": 0,
+        "xmax": 77,
+        "ymax": 616
+      }
+    },
+    {
+      "name": "Normal",
+      "pose": "Unspecified",
+      "truncated": 0,
+      "difficult": 0,
+      "bndbox": {
+        "xmin": 77,
+        "ymin": 0,
+        "xmax": 233,
+        "ymax": 616
+      }
+    },
+    {
+      "name": "CO2 Problem,Normal",
+      "pose": "Unspecified",
+      "truncated": 0,
+      "difficult": 0,
+      "bndbox": {
+        "xmin": 233,
+        "ymin": 0,
+        "xmax": 311,
+        "ymax": 616
+      }
+    },
+    {
+      "name": "CO2 Problem",
+      "pose": "Unspecified",
+      "truncated": 0,
+      "difficult": 0,
+      "bndbox": {
+        "xmin": 311,
+        "ymin": 0,
+        "xmax": 930,
+        "ymax": 616
+      }
+    }
+  ]
+}
